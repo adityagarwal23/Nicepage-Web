@@ -1,0 +1,56 @@
+*{
+    background-color: #6259ac;
+    color: white;
+
+}
+.div{
+    height: 490px;
+    width: 490px;
+}
+.flex{
+    display:flex
+}
+.header{
+    background: #f2f2f2;
+    border: none;
+    height: 70px;
+    position: relative;
+    text-align: center;
+}
+.nicepage{
+    position: absolute;
+    top: 17px;
+    left: 10px;
+    background: #f2f2f2;
+    margin: auto;
+
+}
+.divtwo{
+    text-align: center;
+}
+.nicepagetwo{
+    top: 17px;
+    left: 10px;
+    background: #f2f2f2;
+    margin: auto;
+    margin-top: 20px;
+}
+.button{
+    text-align: center;
+    /* color: white; */
+    border-color: white;
+    border: solid;
+    height: 50px;
+    width: 9%;
+}
+.footer{
+    position: relative;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    background-color: #333333;
+    height: 50px;
+}
+.colorwhite{
+    color: white;
+}
